@@ -1,0 +1,5 @@
+feature_set,n_features,silhouette,davies_bouldin,calinski_harabasz,ARI_vs_A
+A: 24 hourly values (main),24,0.1623,1.7846,274.7345,1.0
+B: 4 time-block means,4,0.2886,1.1761,574.2652,0.8045
+C: summary statistics,10,0.2243,1.5119,442.0129,0.2054
+D: 24 hourly + weekend flag,25,0.1597,1.8357,263.2004,0.9058
